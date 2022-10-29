@@ -39,11 +39,9 @@ html {
 #logo {
     width: 23%;
     height:  20%;
-    styl
-
-}
-.hero {
-    background-color: gray;
+    styl: 
+ {
+    background-color; background-blend-mode:color
     background-image: url(images.bathroomwall.jpg) alt "bathroomwall" ;
     background-repeat: repeat;
 }
